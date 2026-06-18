@@ -1,0 +1,39 @@
+#one{
+    background-color: #3a0353;
+    font-family: 'Cinzel Decorative', serif;
+}
+.container-one{
+    border: 10px #F8D299;
+    text-align: center;
+    background-color: #F8D299;
+    width: 800px;
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-top: 100px;
+    color: #804a8a;
+}
+.two{
+    border: 10px #F8D299;
+    text-align: center;
+    background-color: #F8D299;
+    width: 800px;
+    height: 600px;
+    border-radius: 50px;
+    margin-left: 550px;
+    color: #804a8a;
+}
+#two{
+    background-color: #3a0353;
+    font-family: 'Cinzel Decorative', serif;
+}
+.three{
+    border: 10px #F8D299;
+    text-align: center;
+    background-color: #F8D299;
+    width: 850px;
+    height: 650px;
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-top: 100px;
+    color: #804a8a;
+}
